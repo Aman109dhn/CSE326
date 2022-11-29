@@ -133,3 +133,171 @@ Part2(11-20)
     <p>click here to open <a href="https://google.co.in" target="_blank" title="google is one of the most popular search engine">google</a></p>
 </body>
 </html>
+
+
+Part3(21-27)
+# Day21
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML FORMS</h1>
+    <form action="thankyou.html" method='POST'>
+        <label for="username">Username: </label>
+        <input type="text" id="username" name='username'> <br> <br>
+        <label for="password" id="password" names="password"></label>
+        <input type="password" id="password" name="password"> <br> <br>
+        <label for="email">Email: </label>
+        <input type="email" id="email" name="email"> <br> <br>
+
+        <input type="submit" value="sign in">
+
+    </form>
+    
+</body>
+</html>
+# Day22
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML FORM</h1>
+    <form>
+        <label for="username">Username: </label>
+        <input type="text" id="username" placeholder="username" required> <br> <br>
+        <label for="password">Password: </label>
+        <input type="password" id="password" placeholder="your password" required> <br> <br>
+        <label for="email">Email: </label>
+        <input type="email" id="email" placeholder="Your email" required> <br> <br>
+
+        <input type="submit" value="submit">
+    </form>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML FORMS</h1>
+    <form>
+        <label for="username">Username: </label>
+        <input type="text" id="username"> <br> <br>
+        <label for="email">Email: </label>
+        <input type="email" id="email"> <br> <br>
+        <label for="password">Password: </label>
+        <input type="password" id="password"> <br>
+
+        <p>Select your gender</p>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="male" value="Male"> <br>
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="female" value = "Female"><br>
+        <label for="other">Other</label>
+        <input type="radio" name="gender" id="other" value = "Other">
+        <br> <br>
+        <input type="submit" value="sign in">
+    </form>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>HTML FORMS</h1>
+    <form method='GET' action="hello.html">
+        <label for="username">Username: </label>
+        <input type="text" id="username"> <br> <br>
+        <label for="email">Email: </label>
+        <input type="email" id="email"> <br> <br>
+        <label for="password">Password: </label>
+        <input type="password" id="password"> <br>
+
+        <p>Select your gender</p>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" id="male" value="Male"> <br>
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="female" value = "Female"><br>
+        <label for="other">Other</label>
+        <input type="radio" name="gender" id="other" value = "Other"><br> 
+        <label for="age-group">Select your age group</label>
+        <select name="age-group-value" id="age-group">
+            <option value="5-10">5-10</option>
+            <option value="11-21">11-21</option>
+            <option value="21-50">21-50</option>
+            <option value="50+"></option>
+        </select>
+        <br>
+        <input type="submit" value="sign in">
+    </form>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <p>comment below</p>
+        <textarea name="" id="" cols="30" rows="10" placeholder="type here"></textarea>
+        <br>
+        pick color : <input type="color" name="" id><br>
+        Date : <input type="date" name="" id=""><br>
+        <input type="file" name="" id="">
+    </form>
+    
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Sign Up Form</h2>
+    <form>
+        <input type="text" placeholder="First Name"> <br> <br>
+        <input type="text" placeholder="Last Name"> <br> <br>
+        <input type="email" placeholder="Email"> <br> <br>
+        <input type="password" placeholdre="Oassword"> <br>
+
+        <!--dropdown list-->
+        <label for="counrty">Country</label>
+        <select id="country">
+            <option value="India">India</option>
+            <option value="Bhutan"></option>
+            <option value="nepal"></option>
+        </select>
+
+        <p>Write about yourself below</p>
+        <textarea name="" id="" cols="30" rows="10" placeholder="type here"></textarea>
+        <br>
+        <input type="submit" value="submit">
+        <button type="submit"></button>
+    </form>
+    
+</body>
+</html>
