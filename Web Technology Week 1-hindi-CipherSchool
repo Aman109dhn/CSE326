@@ -1,0 +1,135 @@
+Part1(1-10)
+
+Main structure of HTML Webpage
+<!DOCTYPE html>
+<html>
+		<head> </head>
+		<body> </body>
+	</html>
+	
+	
+	<!DOCTYPE html>
+<html>
+		<head>
+				<title>My Website </title>
+		</head>
+		<body> </body>
+	</html>
+	
+	
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial</title>
+</head>
+<body>
+	<h1>Heading 1 </h1>
+    <h2>Heading 2 </h2>
+	<h3>Heading 1 </h3>
+	<h4>Heading 1 </h4>
+	<h5>Heading 1 </h5>
+	<h6>Heading 1 </h6>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial</title>
+</head>
+<body>
+	<!-- <h1>Heading 1 </h1>
+    <h2>Heading 2 </h2>
+	<h3>Heading 3 </h3>
+	<h4>Heading 4 </h4>
+	<h5>Heading 5 </h5>
+	<h6>Heading 6 </h6> 
+	<p>This is paragraph ...<br> this is next line</p> 
+	<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorum impedit, asperiores, eaque inventore nisi odio ab nobis ex velit ducimus adipisci rerum illum at? Veniam commodi molestiae adipisci nisi ipsa.</p> -->
+</body><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, repellendus.</p>
+</html>
+
+Part2(11-20)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>solution</title>
+</head>
+<body>
+    <h1>My Blogs</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis asperiores blanditiis nobis odit natus laudantium vel, qui voluptate libero aspernatur aliquid voluptates eius delectus totam porro molestias omnis sunt eveniet beatae, quae fugit dolorem corporis. Magni iure sequi temporibus. Debitis ea reprehenderit veniam molestiae est consectetur repellat deleniti reiciendis aliquam rerum, aliquid veritatis ipsum! Repellat voluptatum in quae impedit neque vero laborum pariatur eum distinctio nulla et soluta, sapiente ea rem eaque, magni, fugiat eveniet aut molestias optio recusandae rerum labore. Nam tempore nulla ad veritatis autem excepturi dignissimos eveniet minima minus quis, illo error, sint, libero aperiam saepe! Dolores quaerat sunt voluptatem! Esse, voluptatum illum. Natus iure sunt quidem ipsa rem. Nobis, at qui officia architecto accusantium tenetur, corrupti sequi eos debitis neque voluptates facilis, fugiat est doloribus aperiam earum quisquam provident. Quasi, doloremque temporibus odio a, ipsam quia obcaecati enim corporis impedit, unde alias quisquam natus perspiciatis iusto!</p>
+    <br>
+    <h2>MY Blog Post 1</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ratione culpa impedit provident itaque consequatur veritatis, ex nihil asperiores, aliquam recusandae nemo, autem cupiditate ab aspernatur mollitia. Iure laboriosam ad, quasi sint explicabo earum, maxime totam corporis quia ab similique recusandae. Nesciunt similique minima rerum culpa rem vero, modi nulla, adipisci autem quasi ea labore error repellendus in eligendi ducimus voluptatem fuga eos nisi assumenda? Temporibus odit error sed quaerat officia magnam voluptatem mollitia. Dignissimos hic molestiae ipsum numquam ducimus eaque non odio nostrum sunt totam consequatur voluptas, similique est sequi quisquam earum eos quod, laboriosam quis ipsam dolor voluptates debitis maxime? Illum, labore dignissimos? Dolorum ut qui quae facere laboriosam veniam hic quasi! Autem, odio aliquid repudiandae iure fuga quod iste nam accusantium corporis, nisi adipisci reiciendis saepe quasi ullam asperiores vitae ea aut corrupti labore eos fugit earum assumenda natus beatae! Dignissimos nostrum quo soluta facilis libero provident dolores?</p>
+    
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links</title>
+</head>
+<body>
+    <a href="https://google.co.in" target="_balnk" Go to Google></a>
+    <br>
+    <a href="thankyou.html">Thankyou</a>
+    <h1>Thankyou for visiting</h1>
+    <a href="../index.html">Index page</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>click here to open <a href="https://google.co.in" target="_blank" title="google is one of the most popular search engine">google</a></p>
+</body>
+</html>
